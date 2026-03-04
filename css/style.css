@@ -2129,7 +2129,7 @@ h1 {
   }
 
   .cta-wrapper {
-
+    flex-direction: column;
     height: auto;
     gap: 40px;
   }
